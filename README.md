@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shehan-9909&repo=airdrop&theme=light" />
 
 </a>
-<a href="https://github.com/shehan-9909/Telegram">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shehan-9909&repo=Telegram=light" />
+<a href="https://github.com/shehan-9909/whatsapp">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shehan-9909&repo=whatsapp=light" />
 </a>
 
 <div align="center">
